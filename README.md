@@ -15,7 +15,6 @@ Un visor y explorador de JSON ultrarrápido e interactivo al estilo de **JSON Cr
 * **100% Local y Seguro:** Todo ocurre en tu navegador. Tus datos nunca se envían a ningún servidor.
 * **Rendimiento Extremo:** Gracias al uso de Web Workers, es capaz de cargar y parsear archivos gigantes (>500MB) y millones de nodos sin bloquear la interfaz.
 * **Múltiples Diseños (Layouts):** Explora tus datos en modo Árbol (*Tree*), Compacto, Radial o Grafo.
-* **Soporte Especializado:** Incluye detección y resaltado de tipos para estructuras **COBOL / NATURAL** (Working-Storage, Procedure Division, Perform, etc.).
 * **Búsqueda Avanzada:** Busca claves y valores en milisegundos. Soporta Expresiones Regulares (Regex) y distinción de mayúsculas/minúsculas (*Case Sensitive*).
 * **Minimapa Integrado:** Navega por estructuras inmensas sin perderte gracias al minimapa en tiempo real.
 * **Temas Personalizables:** Incluye temas Dark, Light y Technical para adaptarse a tus preferencias.
