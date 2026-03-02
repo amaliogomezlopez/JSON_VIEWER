@@ -8,7 +8,7 @@ Un visor y explorador de JSON ultrarrápido e interactivo al estilo de **JSON Cr
 
 ## 📸 Demo
 
-![image]((https://github.com/amaliogomezlopez/JSON_VIEWER/issues/1#issue-4010368354))
+![Demo de MY JSON VIEWER](https://github.com/user-attachments/assets/32c4ce87-e6ad-404e-b995-03c0806878b1)
 
 ## ✨ Características Principales
 
